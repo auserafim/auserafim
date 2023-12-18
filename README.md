@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Aurélio's GitHub stats](https://github-readme-stats.vercel.app/api?username=auserafim)](https://github.com/auserafim/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auserafim&layout=compact)
+[![Aurélio's GitHub stats](https://github-readme-stats.vercel.app/api?username=auserafim)](https://github.com/auserafim/github-readme-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auserafim&layout=compact)
 
 
 
