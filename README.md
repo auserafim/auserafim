@@ -1,6 +1,5 @@
 ### Hey, I am Aurélio!👋
 
-### I am a passionate programming learner
 
 <!--
 **auserafim/auserafim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
