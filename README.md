@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**![image](https://github.com/user-attachments/assets/cfd9a69e-9713-4084-ab4c-5d67ea759621)
-**
+[**![image](https://github.com/user-attachments/assets/cfd9a69e-9713-4084-ab4c-5d67ea759621)
+**](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY1Nzg1MjAsIm5iZiI6MTcyNjU3ODIyMCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE3VDEzMDM0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5MzQxZjAwNjcxZGUyMGY0MTkxYTE0NGEwODRiZjRkMzBkNGE2YjcyZDQxMTIxNTllYTJmOTFmMzNjMTRiMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.B53wiL_FkZgIlddwe1Tq_B3qk6kaVHFJZ565PxLixss)
 
 
 [![Aurélio's GitHub stats](https://github-readme-stats.vercel.app/api?username=auserafim)](https://github.com/auserafim/github-readme-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auserafim&layout=compact)
