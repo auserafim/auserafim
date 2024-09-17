@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**![image](https://github.com/user-attachments/assets/cfd9a69e-9713-4084-ab4c-5d67ea759621)
+**
+
+
 [![Aurélio's GitHub stats](https://github-readme-stats.vercel.app/api?username=auserafim)](https://github.com/auserafim/github-readme-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auserafim&layout=compact)
 
 
