@@ -1,6 +1,11 @@
 ###                                                                     Hey, I am Aurélio!👋
 
+Working Areas:
 
+Development of real-world applications for data visualization.
+Data analysis of financial data. 
+
+🌐 Always open to collaborations and new ideas!
 <!--
 **auserafim/auserafim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
