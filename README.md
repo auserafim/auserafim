@@ -2,7 +2,7 @@
 
 Working Areas:
 
-- Development of real-world applications for data visualization.
+- Development of scalable real-world applications with JavaScript.
 - Data analysis for behavioral prediction. 
 
 🌐 Always open to collaborations and new ideas!
