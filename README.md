@@ -2,8 +2,8 @@
 
 Working Areas:
 
-Development of real-world applications for data visualization.
-Data analysis of financial data. 
+- Development of real-world applications for data visualization.
+- Data analysis for behavioral prediction. 
 
 🌐 Always open to collaborations and new ideas!
 <!--
