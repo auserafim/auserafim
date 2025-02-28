@@ -1,6 +1,5 @@
 ###                                                                     Hey, I am Aurélio!👋
-
-Working Areas:
+Areas of Interest:
 
 - Development of scalable real-world applications with JavaScript.
 - Data analysis for behavioral prediction. 
