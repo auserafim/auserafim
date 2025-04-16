@@ -1,7 +1,7 @@
 ###                                                                     Hey, I am Aurélio!👋
 Areas of Interest:
 
-- Development of scalable real-world applications with JavaScript.
+- Development of scalable real-world applications with Python.
 - Data analysis for behavioral prediction. 
 
 🌐 Always open to collaborations and new ideas!
