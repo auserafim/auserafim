@@ -2,7 +2,7 @@
 Areas of Interest:
 
 - Development of scalable real-world applications with Python.
-- Data analysis for behavioral prediction. 
+- Data analysis. 
 
 🌐 Always open to collaborations and new ideas!
 <!--
