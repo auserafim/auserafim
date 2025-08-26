@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 [![Aurélio's GitHub stats](https://github-readme-stats.vercel.app/api?username=auserafim)](https://github.com/auserafim/github-readme-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auserafim&layout=compact)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=auserafim)](https://git.io/streak-stats)
