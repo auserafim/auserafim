@@ -1,8 +1,8 @@
 ###                                                                     Hey, I am Aurélio!👋
 Areas of Interest:
 
-- Development of scalable real-world applications with Python.
-- Data analysis. 
+- Development of scalable real-world Machine Learning Applications.
+- Data Engineer. 
 
 🌐 Always open to collaborations and new ideas!
 <!--
