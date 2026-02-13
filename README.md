@@ -5,6 +5,9 @@ Areas of Interest:
 - Machine Learning Engineer.
 
 🌐 Always open to collaborations and new ideas!
+
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/aab46af2-0810-4940-90da-1e66f748e5fe)
+
 <!--
 **auserafim/auserafim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
